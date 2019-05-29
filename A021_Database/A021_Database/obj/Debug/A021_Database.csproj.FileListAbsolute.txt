@@ -1,0 +1,11 @@
+E:\School\2학년\C#\WindowsFormsApp1\A021_Database\A021_Database\bin\Debug\Students.mdb
+E:\School\2학년\C#\WindowsFormsApp1\A021_Database\A021_Database\bin\Debug\A021_Database.exe.config
+E:\School\2학년\C#\WindowsFormsApp1\A021_Database\A021_Database\bin\Debug\A021_Database.exe
+E:\School\2학년\C#\WindowsFormsApp1\A021_Database\A021_Database\bin\Debug\A021_Database.pdb
+E:\School\2학년\C#\WindowsFormsApp1\A021_Database\A021_Database\obj\Debug\A021_Database.csprojAssemblyReference.cache
+E:\School\2학년\C#\WindowsFormsApp1\A021_Database\A021_Database\obj\Debug\A021_Database.Form1.resources
+E:\School\2학년\C#\WindowsFormsApp1\A021_Database\A021_Database\obj\Debug\A021_Database.Properties.Resources.resources
+E:\School\2학년\C#\WindowsFormsApp1\A021_Database\A021_Database\obj\Debug\A021_Database.csproj.GenerateResource.cache
+E:\School\2학년\C#\WindowsFormsApp1\A021_Database\A021_Database\obj\Debug\A021_Database.csproj.CoreCompileInputs.cache
+E:\School\2학년\C#\WindowsFormsApp1\A021_Database\A021_Database\obj\Debug\A021_Database.exe
+E:\School\2학년\C#\WindowsFormsApp1\A021_Database\A021_Database\obj\Debug\A021_Database.pdb
